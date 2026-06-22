@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6d18a"/>
+      <stop offset=".48" stop-color="#d9352b"/>
+      <stop offset="1" stop-color="#24100d"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#080403"/>
+  <rect x="6" y="6" width="52" height="52" rx="14" fill="url(#g)"/>
+  <text x="32" y="43" text-anchor="middle" font-size="32" font-family="Arial, sans-serif" font-weight="700" fill="#fffaf2">肉</text>
+</svg>
